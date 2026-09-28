@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-eigenvalue-power-iteration-jacobi-skill"
+version = "1.0.0"
+description = "Jacobi eigenvalue algorithm for real symmetric matrices and dominant eigenvector power iteration"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-eigenvalue-power-iteration-jacobi-skill.git"
