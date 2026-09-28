@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-eigenvalue-power-iteration-jacobi-skill
+service:
+  name: genpark-eigenvalue-power-iteration-jacobi-skill
+  command: python
+  args:
+    - mcp_server.py
